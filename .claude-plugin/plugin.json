@@ -1,6 +1,5 @@
 {
   "name": "rtl-mode",
-  "version": "0.1.0",
   "description": "Right-to-left display for Hebrew lines in the transcript, toggled with /rtl or the band above the prompt",
   "types": "./types/index.d.ts"
 }
